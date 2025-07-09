@@ -19,7 +19,7 @@ A desktop-based movie ticket booking system built with Python, Tkinter for GUI, 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/movie-booking-system.git
+git clone https://github.com/ArnavSth/movies-booking-system.git
 cd movies booking system
 ```
 
