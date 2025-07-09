@@ -1,2 +1,5 @@
-sqlalchemy
-python-pptx
+# Requires Python 3.6 or higher
+# Note: Tkinter is pre-installed with Python (for Linux: use `sudo apt install python3-tk`)
+
+sqlalchemy==2.0.30
+
